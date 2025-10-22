@@ -52,14 +52,13 @@ The system is structured around modular programming principles, where each Pytho
 The central control and user interaction occur through `calculadora.py`.
 
 ```
-📦 Math-Toolkit
+📦 Mathematical-Toolkit
  ┣ 📜 README.md
  ┣ 📜 calculadora.py
  ┣ 📜 basico.py
  ┣ 📜 estadistica.py
  ┣ 📜 optimizar.py
- ┣ 📜 avanzado.py
- ┗ 📂 data/
+ ┗ 📜 avanzado.py
 ```
 
 ---
@@ -228,4 +227,4 @@ You may open a **Pull Request** or report issues in the **Issues** section.
 
 ## License
 
-This project is licensed under the **MIT License** — see the `LICENSE` file for details.
+This project is licensed under the **MIT License** .
