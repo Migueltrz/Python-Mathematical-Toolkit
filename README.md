@@ -1,5 +1,14 @@
 # Mathematical Toolkit
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
+![Sympy](https://img.shields.io/badge/sympy-1.12%2B-green?logo=sympy)
+![NumPy](https://img.shields.io/badge/numpy-1.24%2B-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3.7%2B-orange?logo=matplotlib)
+![Pandas](https://img.shields.io/badge/pandas-2.0%2B-purple?logo=pandas)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
+
 This project is a **modular mathematical toolkit** built in **Python**, designed to perform operations ranging from basic arithmetic to symbolic optimization, statistical analysis, and graphical visualization.  
 The main entry point is `calculadora.py`, which integrates multiple modules for extended functionality:  
 `basico.py`, `estadistica.py`, `optimizar.py`, and `avanzado.py`.
